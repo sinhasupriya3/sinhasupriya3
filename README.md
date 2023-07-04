@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development, Android development, UI Designer**
+- 🌱 I’m currently learning **Full Stack Web Development, Android development, UI Designing**
 
 - 👨‍💻 All of my projects are available at [github.com/sinhasupriya3](github.com/sinhasupriya3)
 
