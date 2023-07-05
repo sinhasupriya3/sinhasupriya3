@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Android development, UI Designing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sinhasupriya3](https://github.com/sinhasupriya3)
+- 👨‍💻 All of my projects are available at [github.com/sinhasupriya3](github.com/sinhasupriya3)
 
 - 📫 How to reach me **sinhasupriya492@gmail.com**
 
