@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **sinhasupriya492@gmail.com**
 
--  ;) Consistency>>Perfection
--  :)Coding with a cause.
+   ;) Consistency>>Perfection
+  :)Coding with a cause.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
